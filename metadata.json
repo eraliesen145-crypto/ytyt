@@ -1,0 +1,7 @@
+{
+  "name": "Grimmire - Dark Fantasy Survival RPG",
+  "description": "An immersive, grim dark-fantasy survival RPG text adventure led by an AI Game Master with inventory management, stat tracking, and dangerous choices.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
